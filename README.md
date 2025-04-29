@@ -17,7 +17,7 @@ License
 
 Contact
 
-Project Overview
+
 Flooding is a recurring and devastating problem in Kinshasa, often resulting in loss of life and property. Bilangana Te leverages real-time weather data, hydrological sensors, and AI-driven models to predict heavy rainfall and flood risks, delivering alerts to users via mobile app and SMS.
 
 Features
