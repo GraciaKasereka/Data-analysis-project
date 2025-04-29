@@ -46,7 +46,3 @@ Bilangana Te leverages real-time weather data, hydrological models, and AI to pr
 - **Database**: PostgreSQL + PostGIS
 - **Hosting**: GitHub Codespaces (dev), Heroku / AWS / Render (prod)
 
----
-
-## 🚀 Getting Started
-
