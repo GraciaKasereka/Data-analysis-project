@@ -1,4 +1,4 @@
-# 🌧️ Bilangana Te – Rain and Flood Alert App for Kinshasa
+# 🌧️ Mbula keba – Rain and Flood Alert App for Kinshasa
 
 **Bilangana Te** is a real-time heavy rain alert and flood prediction application designed for Kinshasa, Democratic Republic of Congo (DRC), with plans to expand to other regions.  
 Our mission is to save lives and protect property by providing timely, localized alerts and actionable information to communities at risk of flooding.
